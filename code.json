@@ -1,0 +1,44 @@
+{
+  "name": "cms-open-source-policy",
+  "description": "CMS' Open Source Policy",
+  "longDescription": "",
+  "status": "",
+  "permissions": {
+    "license": [
+      {
+        "name": "",
+        "URL": ""
+      }
+    ],
+    "usageType": "",
+    "exemptionText": ""
+  },
+  "organization": "",
+  "repositoryURL": "https://github.com/DSACMS/cms-open-source-policy",
+  "vcs": "git",
+  "laborHours": 1381,
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [],
+  "maintenance": "",
+  "date": {
+    "created": "2024-09-05T18:22:39Z",
+    "lastModified": "2025-02-13T20:26:40Z",
+    "metaDataLastUpdated": "2025-02-13T20:27:21.834Z"
+  },
+  "tags": [],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "subsetInHealthcare": [],
+  "userType": [],
+  "repositoryHost": "github",
+  "maturityModelTier": 0
+}
