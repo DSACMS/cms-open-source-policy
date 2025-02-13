@@ -1,0 +1,45 @@
+{
+  "name": "cms-open-source-policy",
+  "description": "CMS' Open Source Policy",
+  "longDescription": "The Centers for Medicare & Medicaid Services (CMS) has been an active supporter of and has utilized the Open Source Software (OSS) on several IT projects for its mission-critical programs. Several CMS business units and offices have been actively releasing OSS as part of IT modernization projects. CMS has many active open source communities, such as our Developer APIs like Bluebutton, our CMS Design System, and hundreds of other repos across our many organizations (https://dsacms.github.io/metrics/organizations/). CMS has embraced Open Source development and is looking forward to releasing software to the community to promote reuse. This policy will help CMS achieve the goals outlined in the OMB directive M-16-21 for Federal agencies.",
+  "status": "Production",
+  "permissions": {
+    "license": [
+      {
+        "name": "CC0 1.0 Universal",
+        "URL": "https://github.com/DSACMS/cms-open-source-policy/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/DSACMS/cms-open-source-policy",
+  "vcs": "git",
+  "laborHours": 1381,
+  "platforms": ["web"],
+  "categories": ["procurement", "hr"],
+  "softwareType": "standalone/web",
+  "languages": ["Markdown"],
+  "maintenance": "internal",
+  "date": {
+    "created": "2024-09-05T18:22:39Z",
+    "lastModified": "2025-02-13T20:26:40Z",
+    "metaDataLastUpdated": "2025-02-13T20:27:21.834Z"
+  },
+  "tags": ["Policy", "OSPO", "Open Source"],
+  "contact": {
+    "email": "opensource@cms.hhs.gov",
+    "name": "CMS Open Source Team"
+  },
+  "localisation": false,
+  "repositoryType": "standards",
+  "userInput": false,
+  "fismaLevel": "Low",
+  "group": "CMS/OA/DSAC",
+  "upstream": ["https://github.com/CMSgov/cms-open-source-policy"]
+  "subsetInHealthcare": ["Policy"],
+  "userType": ["Government"],
+  "repositoryHost": "github.com/DSACMS",
+  "maturityModelTier": 1
+}
