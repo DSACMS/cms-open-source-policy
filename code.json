@@ -36,7 +36,8 @@
   "repositoryType": "standards",
   "userInput": false,
   "fismaLevel": "Low",
-  "group": "CMS/OA/DSAC"
+  "group": "CMS/OA/DSAC",
+  "upstream": ["https://github.com/CMSgov/cms-open-source-policy"]
   "subsetInHealthcare": ["Policy"],
   "userType": ["Government"],
   "repositoryHost": "github.com/DSACMS",
