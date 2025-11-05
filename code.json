@@ -5,13 +5,13 @@
   "longDescription": "The Centers for Medicare & Medicaid Services (CMS) has been an active supporter of and has utilized the Open Source Software (OSS) on several IT projects for its mission-critical programs. Several CMS business units and offices have been actively releasing OSS as part of IT modernization projects. CMS has many active open source communities, such as our Developer APIs like Bluebutton, our CMS Design System, and hundreds of other repos across our many organizations (https://dsacms.github.io/metrics/organizations/). CMS has embraced Open Source development and is looking forward to releasing software to the community to promote reuse. This policy will help CMS achieve the goals outlined in the OMB directive M-16-21 for Federal agencies.",
   "status": "Production",
   "permissions": {
-    "license": [
+    "licenses": [
       {
-        "name": "CC0 1.0 Universal",
+        "name": "CC0-1.0",
         "URL": "https://github.com/DSACMS/cms-open-source-policy/blob/main/LICENSE"
       }
     ],
-    "usageType": "governmentWideReuse",
+    "usageType": ["governmentWideReuse"],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
@@ -62,15 +62,15 @@
   "localisation": false,
   "repositoryType": "standards",
   "userInput": false,
-  "fismaLevel": "Low",
+  "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
   "projects": [],
   "systems": [],
   "subsetInHealthcare": [
-    "Policy"
+    "policy"
   ],
   "userType": [
-    "Government"
+    "government"
   ],
   "maturityModelTier": 1
 }
