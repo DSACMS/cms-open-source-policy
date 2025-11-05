@@ -36,7 +36,9 @@
     "hr"
   ],
   "softwareType": "standalone/web",
-  "languages": [],
+  "languages": [
+    "Markdown"
+  ],
   "maintenance": "internal",
   "contractNumber": [],
   "SBOM": "https://github.com/DSACMS/cms-open-source-policy/network/dependencies",
