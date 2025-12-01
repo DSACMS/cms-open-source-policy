@@ -11,7 +11,9 @@
         "URL": "https://github.com/DSACMS/cms-open-source-policy/blob/main/LICENSE"
       }
     ],
-    "usageType": ["governmentWideReuse"],
+    "usageType": [
+      "governmentWideReuse"
+    ],
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
@@ -23,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1488,
+  "laborHours": 1560,
   "reuseFrequency": {
     "forks": 1,
     "clones": 0
@@ -36,9 +38,7 @@
     "hr"
   ],
   "softwareType": "standalone/web",
-  "languages": [
-    "Markdown"
-  ],
+  "languages": [],
   "maintenance": "internal",
   "contractNumber": [],
   "SBOM": "https://github.com/DSACMS/cms-open-source-policy/network/dependencies",
@@ -47,8 +47,8 @@
   "partners": [],
   "date": {
     "created": "2024-09-05T18:22:39Z",
-    "lastModified": "2025-11-04T23:29:43Z",
-    "metadataLastUpdated": "2025-11-05T22:23:57.102Z"
+    "lastModified": "2025-11-05T22:32:12Z",
+    "metadataLastUpdated": "2025-12-01T02:27:31.070Z"
   },
   "tags": [
     "Policy",
